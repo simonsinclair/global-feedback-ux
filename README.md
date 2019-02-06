@@ -1,4 +1,8 @@
-In the project directory, you can run:
+## Prototype
+
+To trigger notifications, press SPACE BAR up to three times - refresh the page to do so again. Animation timing and curve can be found here: https://github.com/simonsinclair/global-feedback-ux/blob/master/src/Notification.css#L47-L67.
+
+## Develop.
 
 ### `npm start`
 
